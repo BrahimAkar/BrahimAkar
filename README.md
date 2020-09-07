@@ -11,5 +11,4 @@ I always pay attention to the smallest details and I’m looking for new ways to
 ![Boussadjra's github stats](https://github-readme-stats.vercel.app/api?username=brahimakar&show_icons=true&theme=shades-of-purple&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brahimakar&hide=html,css&layout=compact&theme=shades-of-purple)](https://github.com/boussadjra/brahimakar)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brahimakar&repo=vueye-table&theme=shades-of-purple)](https://github.com/brahimakar/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brahimakar&repo=vue-pro-sidebar&theme=shades-of-purple)](https://github.com/brahimakar/github-readme-stats)
+
