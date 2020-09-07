@@ -5,3 +5,11 @@
 [![twitter badge](https://img.shields.io/badge/instagram-@brahim_akar-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/brahim_akar) <br>
 I am an Mobile & Full stack Web developer with a deep passion for learning new technologies and helping others in learning and solving their problems.
 I always pay attention to the smallest details and I’m looking for new ways to challenge myself on all occasions, both in my professional and personal life.
+
+## Github Stats & Top Langs
+
+![Boussadjra's github stats](https://github-readme-stats.vercel.app/api?username=brahimakar&show_icons=true&theme=shades-of-purple&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brahimakar&hide=html,css&layout=compact&theme=shades-of-purple)](https://github.com/boussadjra/brahimakar)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brahimakar&repo=vueye-table&theme=shades-of-purple)](https://github.com/brahimakar/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brahimakar&repo=vue-pro-sidebar&theme=shades-of-purple)](https://github.com/brahimakar/github-readme-stats)
