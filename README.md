@@ -7,7 +7,7 @@ I always pay attention to the smallest details and I’m looking for new ways to
 
 ## Github Stats & Top Langs
 
-![Boussadjra's github stats](https://github-readme-stats.vercel.app/api?username=brahimakar&show_icons=true&theme=shades-of-purple&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brahimakar&hide=html,css&layout=compact&theme=shades-of-purple)](https://github.com/boussadjra/brahimakar)
+![brahimakar's github stats](https://github-readme-stats.vercel.app/api?username=brahimakar&show_icons=true&theme=shades-of-purple&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brahimakar&hide=html,css&layout=compact&theme=shades-of-purple)](https://github.com/brahimakar/)
 
 
